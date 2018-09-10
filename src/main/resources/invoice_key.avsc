@@ -1,0 +1,8 @@
+{
+  "namespace": "com.milanogc.avro",
+  "type": "record",
+  "name": "InvoiceKey",
+  "fields": [
+    {"name": "invoice_key", "type": "string"}
+  ]
+}
